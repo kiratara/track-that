@@ -1,0 +1,39 @@
+
+env
+.DS_Store
+node_modules/
+/dist
+test.py
+data.db
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# temporary
+api/src/models/userModel.py
+api/src/resources/user.py
+api/src/security.py
+fronteNd/app/src/views/Login.vue
+frontend/app/src/views/Signup.vue
+frontend/app/src/views/Update.vue
