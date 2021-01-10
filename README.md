@@ -9,4 +9,5 @@ Backend:
 Frontend:
     Vue.js, axios, HTML, CSS
 
+![](demo/track-that.gif)
 ![](frontend/app/src/assets/track-that.mov)
